@@ -1,0 +1,5 @@
+{
+  "name": "DualStyle Calculator",
+  "description": "A simple calculator featuring both Android (Material) and iOS (Apple) design aesthetics.",
+  "requestFramePermissions": []
+}
